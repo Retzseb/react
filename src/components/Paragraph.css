@@ -1,0 +1,13 @@
+.paragraph h1, 
+.paragraph p{
+    max-width: 500px;
+    color: chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.paragraph h1{
+    font-weight: 500;
+    font-size: 32px;
+}
